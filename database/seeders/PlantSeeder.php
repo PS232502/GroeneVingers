@@ -25,7 +25,7 @@ class PlantSeeder extends Seeder
                 'weight' => '1.09',
                 'height' => '16.80',
                 'width' => '4.70',
-                'amount' => '7',
+                'amount' => '0',
                 'color' => 'Blauw',
                 'image' => 'https://as1.ftcdn.net/v2/jpg/00/82/09/38/500_F_82093850_KGABJZijejnFxFXYao7kfksuk5CtZxxj.jpg',
                 'created_at' => '2022-11-25',
